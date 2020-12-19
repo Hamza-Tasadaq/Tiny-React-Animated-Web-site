@@ -10,11 +10,11 @@ function Footer() {
                     <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi
       placeat.</p>
                     <div className="social-links">
-                        <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
-                        <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
-                        <a href="#" className="instagram"><i className="bx bxl-instagram" /></a>
-                        <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
-                        <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>
+                        <a href="#" className="twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" className="facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" className="instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" className="google-plus"><i class="fab fa-skype"></i></a>
+                        <a href="#" className="linkedin"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                     <div className="copyright">
                         © Copyright <strong><span>Selecao</span></strong>. All Rights Reserved
